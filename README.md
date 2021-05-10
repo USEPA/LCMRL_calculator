@@ -1,2 +1,0 @@
-# LCMRL_calculator
-OW/OGWDW/SRMD/TSC
